@@ -6,7 +6,6 @@ using namespace std;
 bool Inizia,Random;
 int Temp,Temp2,Tris[3][3],G,i;
 string Nomi[2];
-
 /*void Automa(){
 	srand(time(NULL) );
 	rand()%8
